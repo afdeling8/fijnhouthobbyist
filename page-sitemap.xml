@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2026-07-14T18:43:48+00:00</lastmod>
+		<lastmod>2026-07-16T16:20:53+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/12/LignoStoneFinalB.png</image:loc>
 		</image:image>
@@ -10,7 +10,7 @@
 			<image:loc>/wp-content/uploads/2025/12/ChatGPT-Image-Dec-28-2025-04_49_40-PM-min.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2025/12/20251118_203547-min-scaled.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2026/07/20260705_153234-2-scaled.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/12/ChatGPT-Image-Dec-28-2025-04_54_56-PM-min.jpg</image:loc>
@@ -49,7 +49,67 @@
 			<image:loc>/wp-content/uploads/2026/01/20251019_150602-min-scaled.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2025/12/20240803_155525-scaled.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2026/07/20251231_100718-2-scaled.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/contact-2/</loc>
+		<lastmod>2026-07-16T16:46:39+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/klussen/klussen-scheepstimmerwerk/schuifluik-2/</loc>
+		<lastmod>2026-07-16T16:20:04+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/01/20200328_110624-1-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/01/20200202_123254-1-scaled-e1768730039397.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/01/20200202_201232-1-scaled-e1768730071746.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/01/20200202_212133-1-scaled-e1768730085346.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/01/20200205_212509-1-scaled-e1768730003518.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/01/20200209_185218-1-scaled-e1768730024857.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/01/20200322_172031-1-scaled.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/klussen/klussen-scheepstimmerwerk/nieuwste-project/</loc>
+		<lastmod>2026-07-16T16:13:32+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/07/20260705_153234-2-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/07/20251229_173335-1-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/07/20260131_181523-1-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/07/20251231_100718-1-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/07/20260201_143829-1-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/07/20260208_164751-1-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/07/20260308_143426-1-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/07/20251229_162707-1-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/07/20260705_124300-1-scaled.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -569,31 +629,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2026/01/DSC_1136-scaled-e1768730899452.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/klussen/klussen-vergulden/schuifluik/</loc>
-		<lastmod>2026-01-18T10:16:39+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/01/20200328_110624-1-scaled.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/01/20200202_123254-1-scaled-e1768730039397.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/01/20200202_201232-1-scaled-e1768730071746.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/01/20200202_212133-1-scaled-e1768730085346.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/01/20200205_212509-1-scaled-e1768730003518.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/01/20200209_185218-1-scaled-e1768730024857.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/01/20200322_172031-1-scaled.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -1385,10 +1420,6 @@
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/12/20240421_164015-min-1-scaled.jpg</image:loc>
 		</image:image>
-	</url>
-	<url>
-		<loc>/contact-2/</loc>
-		<lastmod>2025-12-28T23:03:29+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/klussen-werkplaats/</loc>
